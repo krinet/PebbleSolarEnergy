@@ -1,0 +1,32 @@
+{
+    "appKeys": {
+        "currentPower": 1,
+        "dailyEnergy": 2,
+        "montlyEnergy": 3,
+        "reload": 0,
+        "totalEnergy": 5,
+        "yearlyEnergy": 4
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "christian.olivier8@gmail.com",
+    "longName": "Solar Energy remote control",
+    "resources": {
+        "media": [
+            {
+                "file": "images/solar.png",
+                "menuIcon": true,
+                "name": "APP_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Solar Energy",
+    "uuid": "127e8b11-4571-453e-a2cb-f4c924457172",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
